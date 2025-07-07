@@ -19,7 +19,7 @@ I’m currently focused on deploying ML models at the edge to achieve high perfo
 
 - **B.Tech in Computer Science and Engineering**  
   MIT ADT University - SOE (2021 - 2025)  
-  **Specialization:** Artificial Intelligence and Edge Computing | **CGPA:** 8.64
+  **Specialization:** Artificial Intelligence and Edge Computing | **CGPA:** 8.74
 
 ---
 
